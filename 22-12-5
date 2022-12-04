@@ -1,0 +1,19 @@
+뜬금 없이 쉘 커맨드를 찾아봄
+
+jq 사용법
+
+jq '.'
+jq '.field'
+jq '.[index]'
+jq '.[index].field' == jq '.[index] | field'
+https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax
+
+awk 사용법
+이건 슬랙에서 찾아보면 많은 사람들이 쓰는데, 공부하면좋을듯
+https://recipes4dev.tistory.com/171
+
+
+데브옵스에서 어떻게 관리하나 깃허브에서 찾아볼려고 했는데, 안나옴,,, 옛날엔 나왔는디......
+정보) 도커 데스크탑을 설치하면 자동으로 쿠버네티스가 깔린다 
+디플로이먼트랑 서비스로 서버(?)는 띄어봄
+그치만 아직 잘모르겠음;;;
