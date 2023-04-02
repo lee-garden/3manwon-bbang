@@ -1,0 +1,19 @@
+오늘도 문제를 풀엇습니다 
+
+하하 
+
+https://leetcode.com/problems/longest-common-prefix/?envType=study-plan&id=level-2
+https://leetcode.com/problems/multiply-strings/?envType=study-plan&id=level-2
+두번째 문제는 형 변환이나 빅인트 없이 큰 자리 숫자 문자열을 곱하는 문제인데, 은근 재밌었습니다. 예외처리할것도 많고
+만약 틀린 걸 안알려줬다면 삽질 오지게 햇을거같네요.. 
+
+for(i in 10..0) {}
+이 포문은 동작을 안한다는걸 깨달았습니다.
+
+for(i in 10 downTo 0) {}
+이게 동작합니다.
+
+
+다음부터는 꼭 책을 읽거나 다른 걸 하도록 노력하겟읍니다,,,
+뭔가 할걸 못찾아서 시간 때우기로 문제를 푸는거 같네요.. 
+나쁜건 아닌데.. 흠.. 딴걸 찾아보겠읍니다.. 
